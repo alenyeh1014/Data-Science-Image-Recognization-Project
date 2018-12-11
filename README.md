@@ -1,4 +1,3 @@
-# Data-Science-Image-Recognization-Project
-A project with Machine Learning and Deep Learning methodologies.
+# Ship Image Recognization 
 
-Hi all, 
+Hi all, this is a Data Science Project ! - Twitter Analytics with Machine Learning and Deep Learning Methodologies.
