@@ -1,4 +1,4 @@
-# Ship Image Recognizations Project
+# Ship Image Recognizations 
 Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Learning Methodology.
 
 
@@ -17,7 +17,8 @@ Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Le
 
 ### Algorithm Used
 
-- Deeping Learning: 
+- Deeping Learning:
+
   - Convolutional Neural Network (CNN)
   
   
