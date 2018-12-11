@@ -46,8 +46,8 @@ Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Le
   - Convolutional layers apply a convolution operation to the input, passing the result to the next layer. The convolution emulates the response of an individual neuron to visual stimuli. Each neuron processes data only for its receptive field.
 
   
- * Conclusion:
- 
+* Conclusion:
+
   - The test accuracy is more than 65% which is good. This model can be applied to satellite images from any area of interest for ship detection and quantification.
   
   
