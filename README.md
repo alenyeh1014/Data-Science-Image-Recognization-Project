@@ -47,7 +47,7 @@ Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Le
 
   
  * Conclusion:
-
+ 
   - The test accuracy is more than 65% which is good. This model can be applied to satellite images from any area of interest for ship detection and quantification.
   
   
