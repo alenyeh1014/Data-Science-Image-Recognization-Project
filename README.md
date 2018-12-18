@@ -50,7 +50,7 @@ Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Le
 * Methodology Approach:
 
   - Data Cleansing:
-    1. Convert all missing values into 0 and the rest into 1, so there will are only **[0,1]** values insides.
+    1. Convert all missing values into 0 and the rest into 1, so there are only **[0,1]** values insides.
     2. Rename columns into **Image** and **Existing**.
     3. Calculated the ratio of finding ships which is around 35% in this dataset.
    
