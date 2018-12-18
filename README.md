@@ -1,15 +1,16 @@
-# Ship Image Recognizations 
-Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Learning Methodology.
+# Cognitive Computing: Ship Image Recognizations 
+Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Learning methodology.
 
 
 ### Project Objective
 
-* The purpose of this project is to apply Deep Learning Methodology for Image Recognizations in order to detect the real ships over the ocean.
+* The purpose of this project is to apply Deep Learning methodology for Image Recognizations in order to detect the real ships through satellites all over the ocean.
 
 
 ### Methods Used
 
 * Inferential Statistics
+* Data Cleansing
 * Data Wrangling
 * Deep Learning
 * Predictive Modeling
@@ -38,18 +39,32 @@ Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Le
   
 * Data and Scope:
 
-  - I used segments of satellite imagery submitted to the public by Airbus for use in a Kaggle classification competition. This dataset contains a database of more than 200,000 small images of tankers, commercial ships, or fishing ships. 
+  - I used segments of satellite imagery submitted to the public by Airbus for use in a Kaggle classification competition. This dataset contains a database of more than 200,000 small images of tankers, commercial ships, or fishing ships. Therefore, i just upload some sample dataset here and present the predictive results for users references.
+  
+  
+* Convolutional Neural Network (CNN):
+
+  - Convolutional layers apply a convolution operation to the input, passing the result to the next layer. The convolution emulates the response of an individual neuron to visual stimuli. Each neuron processes data only for its receptive field.
   
   
 * Methodology Approach:
 
-  - Convolutional layers apply a convolution operation to the input, passing the result to the next layer. The convolution emulates the response of an individual neuron to visual stimuli. Each neuron processes data only for its receptive field.
+  - Data Cleansing:
+    1. Convert all missing values into 0 and the rest into 1, so there will are only **[0,1]** values insides.
+    2. Rename columns into **Image** and **Existing**.
+    3. Calculated the ratio of finding ships which is around 35% in this dataset.
+   
+  - Modeling Approach:
+    1. Split the dataset into 80% training data and 20% testing data.
+    2. Transfer all image files into tensorflow format for training with **Keras**.
+    3. Build convolutional layers and train the data with batch_size = 20 and epochs = 20.
+    4. Save the highest accuracy training model during processing.
+    5. Test the model with new input data.
 
   
 * Conclusion:
 
-  - The test accuracy is more than 65% which is good. This model can be applied to satellite images from any area of interest for ship detection and quantification.
-  
+  - The accuracy of new testing model is around 65% which is good. However, there are still some error images found from the outputs, the possible reason is because sample data is not large enough in order to get a better performance. In other words, the accuracy of this model will get higher if all the data are used for training. In general, this model can be applied to satellite images from any area of interest for ship detection and quantification with excellent performances.
   
   
 
