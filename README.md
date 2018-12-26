@@ -39,7 +39,7 @@ Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Le
   
 * Data and Scope:
 
-  - I used segments of satellite imagery submitted to the public by Airbus for use in a Kaggle classification competition. This dataset contains a database of more than 200,000 small images of tankers, commercial ships, or fishing ships. Therefore, i just upload some sample dataset here and present the predictive results for users references.
+  - I used segments of satellite imagery submitted to the public by Airbus for use in a Kaggle classification competition. This dataset contains a database of more than 200,000 small images of tankers, commercial ships, or fishing ships. Therefore, I just upload some sample data and present the predictive results for demonstration.
   
   
 * Convolutional Neural Network (CNN):
@@ -64,7 +64,7 @@ Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Le
   
 * Conclusion:
 
-  - The accuracy of new testing model is around 65% which is good. However, there are still some error images found from the outputs, the possible reason is because sample data is not large enough in order to get a better performance. In other words, the accuracy of this model will get higher if all the data are used for training. In general, this model can be applied to satellite images from any area of interest for ship detection and quantification with excellent performances.
+  - The accuracy of new testing model is around 65% which is good. However, there are still some error images found from the outputs, the possible reason is because sample data is not large enough to get a better performance. In other words, the accuracy of this model will get higher if all the data are used for training. In general, this model can be applied to satellite images from any area of interest for ship detection and quantification with excellent performances.
   
   
 
