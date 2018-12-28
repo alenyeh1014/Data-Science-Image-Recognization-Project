@@ -23,7 +23,7 @@ Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Le
   - Convolutional Neural Network (CNN)
   
   
-### Technologies and Packaged Used
+### Technologies and Packages Used
 
 * Python, Jupyter Notebook
 * Numpy, Pandas, Glob
