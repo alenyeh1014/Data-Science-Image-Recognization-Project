@@ -64,7 +64,7 @@ Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Le
   
 ### Conclusion:
 
-  - The accuracy of new testing model is around 65% which is good. However, there are still some error images found from the outputs, the possible reason is because sample data is not large enough to get a better performance. In other words, the accuracy of this model will get higher if all the data are used for training. In general, this model can be applied to satellite images from any area of interest for ship detection and quantification with excellent performances.
+  - The accuracy of new testing model is around **65%** which is good. However, there are still some error images found from the outputs, the possible reason is **because sample data is not large enough** to get a better performance. In other words, the accuracy of this model will get higher if all the data are used for training. In general, this model can be applied to satellite images from any area of interest for ship detection and quantification with excellent performances.
   
   
 
