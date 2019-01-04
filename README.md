@@ -34,12 +34,12 @@ Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Le
 
 * Motivation:
 
-  - There are tons of ships navigating all over the ocean every day, but only few can be detected by satellite or other means quickly and accurately. Certain routes may be of interest for regulating environmental disruption, monitoring ships at risk of piracy, and avoiding overcrowding.
+  - There are tons of ships navigating all over the ocean every day, but only few can be detected by satellites or other means quickly and accurately. Certain routes may be of interest for regulating environmental disruption, monitoring ships at risk of piracy, and avoiding overcrowding.
   
   
 * Data and Scope:
 
-  - I used segments of satellite imagery submitted to the public by Airbus for use in a Kaggle classification competition. This dataset contains a database of more than 200,000 small images of tankers, commercial ships, or fishing ships. Therefore, I just upload some sample data and present the predictive results for demonstration.
+  - I used segments of satellite imagery submitted to the public by Airbus for use in a Kaggle classification competition. This dataset contains a database of more than 200,000 small images of tankers, commercial ships, or fishing ships. Therefore, I extract some sample data here and present the predictive results for demonstration.
   
   
 * Convolutional Neural Network (CNN):
