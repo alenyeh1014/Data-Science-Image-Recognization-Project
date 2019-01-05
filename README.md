@@ -1,4 +1,4 @@
-# Cognitive Computing: Ship Image Recognizations 
+# Cognitive Computing: Ship Image Recognization 
 Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Learning methodology.
 
 
