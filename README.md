@@ -1,10 +1,10 @@
 # Cognitive Computing: Ship Image Recognition 
-Hi all, this is a Data Science Project ! - Image Recognizations with CNN Deep Learning methodology.
+Hi all, this is a Data Science Project ! - Image Recognitions with CNN Deep Learning methodology.
 
 
 ### Project Objective
 
-* The purpose of this project is to apply Deep Learning methodology for Image Recognizations in order to detect the real ships through satellites all over the ocean.
+* The purpose of this project is to apply Deep Learning methodology for Image Recognitions in order to detect the real ships through satellites all over the ocean.
 
 
 ### Methods Used
